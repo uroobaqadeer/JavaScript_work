@@ -1,0 +1,10 @@
+var a=2;
+var b=9;
+var sub= a-b;
+var mult=a*b;
+var divi=a/b;
+var mod=a%b;
+document.write("Substration of ", a ," and ",b," is ",sub,"<br>");
+document.write("Multiplication of ", a ," and ",b," is ",mult,"<br>");
+document.write("Division of ", a ," and ",b," is ",divi,"<br>");
+document.write("Modulus of ", a ," and ",b," is ",mod);
